@@ -52,7 +52,6 @@ public class Main {
         for (String fru : fruits){
             System.out.println("This is " + fru);
         }
-
     }
 }
 
